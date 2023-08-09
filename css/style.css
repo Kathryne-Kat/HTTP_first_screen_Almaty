@@ -131,7 +131,7 @@ address {
   z-index: -1; /* Чтобы вспышка находилась под картинкой */
 }
 .hero-img {
-  width: 900px;
+  width: 850px;
 }
 .hero-img-small {
   display: none;
@@ -204,7 +204,7 @@ address {
 }
 @media screen and (max-width: 1000px) {
   .hero-title {
-    width: 360px;
+    width: 380px;
     font-size: 40px;
   }
 }
