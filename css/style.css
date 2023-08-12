@@ -339,14 +339,13 @@ address {
     position: relative;
   }
   .hero-img-small {
-    margin-bottom: 55px;
+    margin-bottom: 50px;
   }
   .btn-hero {
     position: absolute;
     bottom: 30px;
     right: 5%;
     left: 5%;
-    /* margin: 0 auto; */
     margin-bottom: 0;
     width: 280px;
     height: 60px;
